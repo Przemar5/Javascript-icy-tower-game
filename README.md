@@ -1,2 +1,2 @@
 # Javascript-icy-tower-game
-Simple game inspired by Icy Tower and made in HTML5 canvas.
+Simple game inspired by Icy Tower and made with HTML5 canvas.
